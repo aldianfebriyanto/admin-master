@@ -1,6 +1,6 @@
 
 	<body>
-		<div class="container box">
+		<div class="container box" style="width: 100%; margin-top: -10px;">
 			<h1 align="center">Jadwal Pekerjaan</h1>
 			<br />
 			<div class="table-responsive">
@@ -11,7 +11,7 @@
 
 				<br /><br />
 
-				<table id="user_data" class="table table-bordered table-striped">
+				<table id="user_data" class="table table-bordered table-striped" style="width: 100%;">
 					<thead>
 						<tr>
 							<th width="5%">Nomor</th>

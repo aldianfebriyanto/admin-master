@@ -15,7 +15,7 @@ if(!isset($_SESSION['username']) || empty($_SESSION['username'])){
   <title>Data Table User</title>
   <script src="assets/js/jquery-1.12.0.min.js"></script>
   <script src="assets/js/jquery.validate.min.js"></script>
-  <script src="static/js/bootstrap.min.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
   <script src="assets/js/dataTables.bootstrap.min.js"></script>
   <link rel="stylesheet" href="assets/css/bootstrap-datepicker.css" />
   <script src="assets/js/bootstrap-datepicker.js"></script>
@@ -65,6 +65,7 @@ if(!isset($_SESSION['username']) || empty($_SESSION['username'])){
         <!-- ============================================================== -->
         <aside class="left-sidebar">
             <!-- Sidebar scroll-->
+
                 <!-- logo -->
                 <img src="assets/images/kaefce.png" style="max-height: 100px; width: 250px; margin-left: 5px; margin-top: -70px;"/>
 

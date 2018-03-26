@@ -1,7 +1,7 @@
     <!-- ============================================================== -->
     <!-- Main wrapper - style you can find in pages.scss -->
     <!-- ============================================================== -->
-    <section id="wrapper" class="error-page">
+    <section id="wrapper" class="error-page" style="width: 100%;">
         <div class="error-box">
             <div class="error-body text-center">
                 <h1>404</h1>

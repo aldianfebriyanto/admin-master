@@ -1,6 +1,6 @@
             <!-- Container fluid  -->
             <!-- ============================================================== -->
-            <div class="container-fluid">
+            <div class="container-fluid" style="width: 150%;">
                 <!-- ============================================================== -->
                 <!-- Bread crumb and right sidebar toggle -->
                 <!-- ============================================================== -->
@@ -16,7 +16,7 @@
                 <!-- ============================================================== -->
                 <!-- Sales Chart and browser state-->
                 <!-- ============================================================== -->
-                <div class="row" style="width: 1885px;">
+                <div class="row" style="width: 100%;">
                     <div class="col-lg-8">
                         <div class="card">
                             <div class="card-body" style="text-align: center;">
@@ -25,7 +25,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row" style="width: 1885px;">
+                <div class="row" style="width: 100%;">
                     <div class="col-lg-8">
                         <div class="card">
                             <div class="card-body" style="color: black;">

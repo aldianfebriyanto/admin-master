@@ -9,7 +9,7 @@
     }
 ?>
 
-            <div class="container-fluid">
+            <div class="container-fluid" style="width: 100%;">
                 <!-- ============================================================== -->
                 <!-- Bread crumb and right sidebar toggle -->
                 <!-- ============================================================== -->
